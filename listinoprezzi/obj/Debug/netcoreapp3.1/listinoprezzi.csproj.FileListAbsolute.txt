@@ -1,0 +1,14 @@
+E:\programmazione\C#\listinoprezzi\listinoprezzi\bin\Debug\netcoreapp3.1\listinoprezzi.exe
+E:\programmazione\C#\listinoprezzi\listinoprezzi\bin\Debug\netcoreapp3.1\listinoprezzi.deps.json
+E:\programmazione\C#\listinoprezzi\listinoprezzi\bin\Debug\netcoreapp3.1\listinoprezzi.runtimeconfig.json
+E:\programmazione\C#\listinoprezzi\listinoprezzi\bin\Debug\netcoreapp3.1\listinoprezzi.runtimeconfig.dev.json
+E:\programmazione\C#\listinoprezzi\listinoprezzi\bin\Debug\netcoreapp3.1\listinoprezzi.dll
+E:\programmazione\C#\listinoprezzi\listinoprezzi\bin\Debug\netcoreapp3.1\listinoprezzi.pdb
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.csproj.AssemblyReference.cache
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.GeneratedMSBuildEditorConfig.editorconfig
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.AssemblyInfoInputs.cache
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.AssemblyInfo.cs
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.csproj.CoreCompileInputs.cache
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.dll
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.pdb
+E:\programmazione\C#\listinoprezzi\listinoprezzi\obj\Debug\netcoreapp3.1\listinoprezzi.genruntimeconfig.cache
